@@ -5,3 +5,6 @@
 - HTML
 - CSS
 - RWD/AWD
+
+- 대체되지 않는 요소
+- 대체되는 요소 또는 void 요소 (empty element)
